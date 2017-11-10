@@ -1,0 +1,80 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="-2dp"
+    android:clipChildren="false">
+
+
+    <ImageButton
+
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".17"
+        android:adjustViewBounds="true"
+        android:clickable="false"
+        android:cropToPadding="true"
+        app:srcCompat="@drawable/connet4grid" />
+
+    <ImageButton
+
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".17"
+        android:adjustViewBounds="true"
+        android:clickable="false"
+        android:cropToPadding="true"
+        app:srcCompat="@drawable/connet4grid" />
+
+    <ImageButton
+
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".17"
+        android:adjustViewBounds="true"
+        android:clickable="false"
+        android:cropToPadding="true"
+        app:srcCompat="@drawable/connet4grid" />
+
+    <ImageButton
+
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".17"
+        android:clickable="false"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        app:srcCompat="@drawable/connet4grid" />
+
+    <ImageButton
+
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".17"
+        android:clickable="false"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        app:srcCompat="@drawable/connet4grid" />
+
+    <ImageButton
+
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".17"
+        android:clickable="false"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        app:srcCompat="@drawable/connet4grid" />
+
+    <ImageButton
+
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".17"
+        android:clickable="false"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        app:srcCompat="@drawable/connet4grid" />
+</LinearLayout>
