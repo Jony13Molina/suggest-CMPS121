@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Suggest</string>
+    <string name="searchCity">Find a City</string>
+    <string name="Directions">Directions</string>
+    <string name="SearchB">Search</string>
+
+</resources>
