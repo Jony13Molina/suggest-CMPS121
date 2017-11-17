@@ -3,5 +3,6 @@
     <string name="searchCity">Find a City</string>
     <string name="Directions">Directions</string>
     <string name="SearchB">Search</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>
